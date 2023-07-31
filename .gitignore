@@ -7,8 +7,7 @@ db.sqlite3
 # Ignore virtual environment directory (assuming you're using venv)
 venv/
 
-# Ignore static files collected in production
-static/
+
 
 # Ignore media files uploaded by users
 media/

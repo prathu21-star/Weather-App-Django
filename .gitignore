@@ -1,0 +1,33 @@
+# Ignore local development settings file
+weatherApp/settings/local.py
+
+# Ignore database file
+db.sqlite3
+
+# Ignore virtual environment directory (assuming you're using venv)
+venv/
+
+# Ignore static files collected in production
+static/
+
+# Ignore media files uploaded by users
+media/
+
+# Ignore temporary files and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.swp
+*.swo
+*.swn
+*.class
+*.pyclass
+*.db
+*.ini
+
+# Ignore local environment files (e.g., .env)
+.env
+
+# Ignore any other sensitive or generated files specific to your project

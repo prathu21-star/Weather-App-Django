@@ -18,6 +18,10 @@ It's simple and straightforward to use!
 3. OpenWeather API
 
 
+## Live Demo 
+   http://weatherreport.pythonanywhere.com/
+
+
 ## ScreenShots
 ![Screenshot from 2023-07-31 23-54-47](https://github.com/prathu21-star/Weather-App-Django/assets/91003319/d6fd49e0-923d-4bc2-b5c4-86952f7b2861)
 
